@@ -20,4 +20,14 @@ General capabilities and functions:
 ![TMT-Summary.jpg](https://github.com/cakirmehm/Test-Management-Tool/blob/main/TMT-Summary.jpg)
 
 ## Detail View
-![TMT-Detail-View.MOV](https://github.com/cakirmehm/Test-Management-Tool/blob/main/TMT-Detail-View.MOV)
+https://user-images.githubusercontent.com/17138051/163271662-388d15cc-39f5-423e-af1e-638dd57ec24c.mov
+
+## Requirement Coverage Analysis (DOORS integration)
+https://user-images.githubusercontent.com/17138051/163271748-b5bdb986-6b71-4a7c-b231-267e00850673.mov
+
+## Version Controlling (GIT integration)
+https://user-images.githubusercontent.com/17138051/163271955-74e65b79-6ee1-4f00-93dd-2e84f176d2cd.mov
+
+
+
+
