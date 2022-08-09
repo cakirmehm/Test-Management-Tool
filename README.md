@@ -28,6 +28,10 @@ https://user-images.githubusercontent.com/17138051/163271748-b5bdb986-6b71-4a7c-
 ## Version Controlling (GIT integration)
 https://user-images.githubusercontent.com/17138051/163271955-74e65b79-6ee1-4f00-93dd-2e84f176d2cd.mov
 
+## Test Issue Tracking (JIRA integration)
+https://user-images.githubusercontent.com/17138051/183724718-fc74a0af-7d1e-4128-9ddd-9ae28f3b0322.mov
 
+## Publishing TMT Web Catalog
+https://user-images.githubusercontent.com/17138051/183724957-25de3060-418f-4c6d-8582-fa45a255a164.mov
 
 
